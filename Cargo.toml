@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "termtools",
+    "ex_fps_bench",
+    "ex_input_mouse",
+    "game",
+]
